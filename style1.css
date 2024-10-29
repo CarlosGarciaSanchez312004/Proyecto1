@@ -1,0 +1,12 @@
+p {
+    color: red;
+    }
+fieldset {
+    max-width: 750px;
+    margin: 20px 0;
+    }
+    form {
+    max-width: 500px;
+    margin: 0;
+    }
+      
